@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/kaik.io",
     "slug": "kaik",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 428,
-    "timeDay": 446,
-    "timeWeek": 378,
+    "uptimeYear": "99.98%",
+    "time": 427,
+    "timeDay": 380,
+    "timeWeek": 381,
     "timeMonth": 475,
-    "timeYear": 428,
+    "timeYear": 427,
     "dailyMinutesDown": {
       "2021-11-16": 25
     }
