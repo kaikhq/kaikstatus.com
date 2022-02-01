@@ -4,18 +4,19 @@
     "url": "https://kaik.io",
     "icon": "https://favicons.githubusercontent.com/kaik.io",
     "slug": "kaik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 413,
-    "timeDay": 499,
-    "timeWeek": 414,
-    "timeMonth": 403,
-    "timeYear": 413,
+    "time": 412,
+    "timeDay": 372,
+    "timeWeek": 393,
+    "timeMonth": 398,
+    "timeYear": 412,
     "dailyMinutesDown": {
+      "2022-02-01": 0,
       "2021-11-16": 25
     }
   }
